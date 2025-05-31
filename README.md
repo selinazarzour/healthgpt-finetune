@@ -78,5 +78,4 @@ python app.py
 ## 👩‍💻 Author
 
 **Selina Zarzour**  
-Data & AI intern at Kering  
 🧠 Interested in GenAI, healthcare innovation, and applied LLMs
