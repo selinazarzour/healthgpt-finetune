@@ -8,7 +8,7 @@
 
 ## 🔍 Demo
 
-🚀 Try it now: [Hugging Face Space](https://huggingface.co/spaces/selinaz/HealthGPT)  
+🚀 Run it locally with a GPU
 💬 Ask anything from “What does a CT scan show in pneumonia?” to “Can antibiotics treat viral infections?”
 
 ---
