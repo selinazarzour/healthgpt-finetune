@@ -26,12 +26,11 @@
 
 ```
 LLM-FineTuning-Project/
-├── merged-model/          # Final full model with LoRA merged (used for inference)
+├── merged-model/          # Final full model with LoRA merged (very big so could not upload it)
 ├── lora-adapter/          # Optional: lightweight adapter weights
 ├── app.py                 # Gradio interface
 ├── requirements.txt       # Dependencies for deployment
 ├── README.md              # This file
-└── training-notebook.ipynb  # Training and fine-tuning steps (optional)
 ```
 
 ---
@@ -39,7 +38,7 @@ LLM-FineTuning-Project/
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/selinaz/healthgpt-finetune
+git clone https://github.com/selinazarzour/healthgpt-finetune
 cd healthgpt-finetune
 
 # (Optional) Create a virtual environment
@@ -62,8 +61,7 @@ python app.py
 
 ## 📦 Model Weights
 
-- [Merged model on Hugging Face](https://huggingface.co/selinaz/HealthGPT-MedQA) (if pushed)
-- [LoRA Adapter (optional)](https://huggingface.co/selinaz/HealthGPT-LoraAdapter)
+- [Merged model on Hugging Face](https://huggingface.co/selinazarzour/healthgpt-tinyllama)
 
 ---
 
