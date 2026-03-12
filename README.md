@@ -75,5 +75,7 @@ python app.py
 
 ## 👩‍💻 Author
 
+**Youssef BAYOUDH**  
+🧠 ML researcher 
 **Selina Zarzour**  
 🧠 Interested in GenAI, healthcare innovation, and applied LLMs
